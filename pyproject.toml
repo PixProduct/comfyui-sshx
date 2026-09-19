@@ -1,0 +1,10 @@
+[project]
+name = "comfyui_sshx"
+version = "0.1.0"
+description = "ComfyUI node that launches an sshx web terminal on the instance"
+requires-python = ">=3.9"
+dependencies = []
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "comfyui_sshx"
